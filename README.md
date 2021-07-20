@@ -10,7 +10,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fernanda-carvalho-3b148b1b9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fernanda-carvalho-3b148b1b9" height="30" width="40" /></a>
-<a href="https://discord.gg/#4360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#4360" height="30" width="40" /></a>
+<a href="https://discord.gg/4360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="4360" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens, Frameworks e Ferramentas: </h3>
