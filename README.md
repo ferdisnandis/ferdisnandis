@@ -5,6 +5,8 @@
 
 - 💬 Estudando **Inglês** na **Wizard**
 
+- 📚 Estudando **ADS** na **UNICID**
+
 - 📫 Meu email para contato: **fe97964@gmail.com**
 
 <h3 align="left">Conecte-se comigo:</h3>
