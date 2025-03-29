@@ -1,11 +1,12 @@
 <h1 align="center">Olá, aqui é a Fernanda! 👋</h1>
-<h3 align="center">Uma estudante determinada a se tornar uma grande DEV👩‍💻</h3>
 
-- 🌱 Concluído **Desenvolvimento de Sistemas** na **Escola Senai de Informática**
+- 📚 **Desenvolvimento de Sistemas** na **Escola Senai de Informática**
 
-- 💬 Concluído **Inglês** na **Wizard**
+- 💬 **Inglês** e estudando **Espanhol**
 
-- 📚 Estudando **ADS** na **UNICID**
+- 📚 **ADS** na **UNICID**
+
+- 🌱 Trabalhando com **DevOps**
 
 - 📫 Meu email para contato: **fe97964@gmail.com**
 
